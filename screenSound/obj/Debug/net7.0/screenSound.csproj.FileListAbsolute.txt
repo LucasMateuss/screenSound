@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\screenSound\screenSound\bin\Debug\net7.0\screenSound.exe
+C:\Users\lucas\source\repos\screenSound\screenSound\bin\Debug\net7.0\screenSound.deps.json
+C:\Users\lucas\source\repos\screenSound\screenSound\bin\Debug\net7.0\screenSound.runtimeconfig.json
+C:\Users\lucas\source\repos\screenSound\screenSound\bin\Debug\net7.0\screenSound.dll
+C:\Users\lucas\source\repos\screenSound\screenSound\bin\Debug\net7.0\screenSound.pdb
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\screenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\screenSound.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\screenSound.AssemblyInfo.cs
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\screenSound.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\screenSound.dll
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\refint\screenSound.dll
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\screenSound.pdb
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\screenSound.genruntimeconfig.cache
+C:\Users\lucas\source\repos\screenSound\screenSound\obj\Debug\net7.0\ref\screenSound.dll
